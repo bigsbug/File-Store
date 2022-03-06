@@ -1,2 +1,5 @@
 /VENV
 activate
+*__pycache__*
+*.pyc
+
