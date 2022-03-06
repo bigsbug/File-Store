@@ -2,4 +2,4 @@
 activate
 *__pycache__*
 *.pyc
-
+*.sqlite3
